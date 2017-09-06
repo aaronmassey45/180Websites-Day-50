@@ -1,0 +1,14 @@
+@import url("https://fonts.googleapis.com/css?family=Anton|VT323");
+body {
+  color: white;
+  font-family: 'Anton', sans-serif;
+}
+
+#countdown {
+  font-size: 3em;
+  font-family: 'VT323', monospace;
+}
+
+.navbar {
+  border-radius: 0;
+}
